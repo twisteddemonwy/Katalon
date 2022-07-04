@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BASS-T831</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e4b6bf1-f7e8-4b24-89e7-b35c2dae9ed6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a250dbe0-677d-412b-81ec-f5bb85a17aa1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>092d4eb7-7e24-4e80-a402-4ef475b6f8ec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d176440-19d4-4a2d-b97e-849982658229</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>a250dbe0-677d-412b-81ec-f5bb85a17aa1</id>
+      <masked>false</masked>
+      <name>switch_to_sign_in</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>092d4eb7-7e24-4e80-a402-4ef475b6f8ec</id>
+      <masked>false</masked>
+      <name>switch_to_gmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d176440-19d4-4a2d-b97e-849982658229</id>
+      <masked>false</masked>
+      <name>new_password</name>
+   </variable>
+</TestCaseEntity>

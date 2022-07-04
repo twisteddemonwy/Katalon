@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>BASS-T831</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d09c184f-69a1-4ad1-89eb-bea2c98d447b</testSuiteGuid>
+   <testCaseLink>
+      <guid>c8c3e6b7-1f93-4bae-9758-186ee7575f0e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BASS-T831</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a25ddabc-0513-4379-aa47-cad39950b0e7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BASS-T831</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>092d4eb7-7e24-4e80-a402-4ef475b6f8ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a25ddabc-0513-4379-aa47-cad39950b0e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_password</value>
+         <variableId>4d176440-19d4-4a2d-b97e-849982658229</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a250dbe0-677d-412b-81ec-f5bb85a17aa1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
